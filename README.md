@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Data Science Projects**
 - 🌱 I’m currently learning **Advanced Data Analytics and Machine Learning**
 - 👨‍💻 All of my projects are available at
-      [check github](https://github.com/vinutmaradur/)
+      [**Available Here**](https://github.com/vinutmaradur?tab=repositories)
 - 💬 Ask me about **Python, SQL, Data Visualization, Machine Learning**
 - 📫 How to reach me: **vinutpmaradur@gmail.com**
 
