@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working on *Data Science Projects*
 - 🌱 I’m currently learning *Advanced Data Analytics and Machine Learning*
-- 👨‍💻 All of my projects are available at [https://vinutmaradur.github.io/profile-vinut/](https://vinutmaradur.github.io/profile-vinut/)
+- 👨‍💻 All of my projects are available at
+      [check github](https://github.com/vinutmaradur/)
 - 💬 Ask me about *Python, SQL, Data Visualization, Machine Learning*
 - 📫 How to reach me: *vinutpmaradur@gmail.com*
 
@@ -16,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/vinut-maradur-56a224245" target="blank">
+  <a href="https://linkedin.com/in/vinut-maradur" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/vinut_2001" target="blank">
@@ -34,9 +35,6 @@
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
   <br>
 
@@ -59,10 +57,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/sql/sql_quickref.asp" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
   </a>
   <br>
