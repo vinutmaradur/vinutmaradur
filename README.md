@@ -2,9 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Vinut Prabhu Maradur</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F4-things-you-should-know-career-data-analytics-jonathan-osagie&psig=AOvVaw3FHwijw-RTqxhdjhy3FD1D&ust=1738035444027000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDPo-X8lIsDFQAAAAAdAAAAABAK">
 
-<p align="left"> <img src="" alt="vinutmaradur" /> </p>
 
 - 🔭 I’m currently working on **Data Science Projects**
 - 🌱 I’m currently learning **Advanced Data Analytics and Machine Learning**
