@@ -77,7 +77,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinutmaradur&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinutmaradur&" alt="GitHub Streak Stats" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=vinutmaradur&" alt="GitHub Streak Stats" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinutmaradur&show_icons=true&locale=en&layout=compact" alt="Top Languages" / >
