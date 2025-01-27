@@ -6,12 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinutmaradur&label=Profile%20views&color=0e75b6&style=flat" alt="vinutmaradur" /> </p>
 
-- 🔭 I’m currently working on *Data Science Projects*
-- 🌱 I’m currently learning *Advanced Data Analytics and Machine Learning*
+- 🔭 I’m currently working on **Data Science Projects**
+- 🌱 I’m currently learning **Advanced Data Analytics and Machine Learning**
 - 👨‍💻 All of my projects are available at
       [check github](https://github.com/vinutmaradur/)
-- 💬 Ask me about *Python, SQL, Data Visualization, Machine Learning*
-- 📫 How to reach me: *vinutpmaradur@gmail.com*
+- 💬 Ask me about **Python, SQL, Data Visualization, Machine Learning**
+- 📫 How to reach me: **vinutpmaradur@gmail.com**
 
 ---
 
@@ -58,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/sql/sql_quickref.asp" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
+    <img src="https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/6697e5d70e6b50dbe5bbe3dd_6697e36f9a2e61c3f9a3c850_SQL.jpeg" alt="Oracle" width="40" height="40" />
   </a>
   <br>
 
@@ -68,9 +68,6 @@
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
   </a>
   <br>
 </p>
