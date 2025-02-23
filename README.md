@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Vinut Prabhu Maradur</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0df99aee6ea5d0ce30a7f134648f6e12ca395d3d7ec1519029bb737afc828ea9/68747470733a2f2f6173312e667463646e2e6e65742f76322f6a70672f30322f34322f38332f33382f313030305f465f3234323833333835375f72734c41585670576f53734b4d4f74396e35424362344952644e5275705138582e6a7067">
 
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **Data Science and Data Analyst Projects**
 - 🌱 I’m currently learning **Advanced Data Analytics and Machine Learning**
 - 👨‍💻 All of my projects are available at
-      [**Available Here**](https://github.com/vinutmaradur?tab=repositories)
-- 💬 Ask me about **Python, SQL, Data Visualization, Machine Learning**
+      [**Click Here**](https://github.com/vinutmaradur?tab=repositories)
+- 💬 Ask me about **Advanced Excel , Python, SQL, Data Visualization, Machine Learning**
 - 📫 How to reach me: **vinutpmaradur@gmail.com**
 
 ---
@@ -38,6 +38,9 @@
   <br>
 
   <strong>Data Analysis & Visualization:</strong><br>
+  <a href="https://support.microsoft.com/en-us/excel" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Pandas" width="40" height="40" />
+  </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
   </a>
