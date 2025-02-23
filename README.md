@@ -1,8 +1,8 @@
-<img align="center" alt="banner" width="1300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-_ahoSJuID4bpm2JfVY5910XBUwn0FSulA&s">
+<img align="center" alt="banner" width="1300" src="https://camo.githubusercontent.com/0df99aee6ea5d0ce30a7f134648f6e12ca395d3d7ec1519029bb737afc828ea9/68747470733a2f2f6173312e667463646e2e6e65742f76322f6a70672f30322f34322f38332f33382f313030305f465f3234323833333835375f72734c41585670576f53734b4d4f74396e35424362344952644e5275705138582e6a7067">
 
 <h1 align="center">Hi 👋, I'm Vinut Prabhu Maradur</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0df99aee6ea5d0ce30a7f134648f6e12ca395d3d7ec1519029bb737afc828ea9/68747470733a2f2f6173312e667463646e2e6e65742f76322f6a70672f30322f34322f38332f33382f313030305f465f3234323833333835375f72734c41585670576f53734b4d4f74396e35424362344952644e5275705138582e6a7067">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 - 🔭 I’m currently working on **Data Science and Data Analyst Projects**
