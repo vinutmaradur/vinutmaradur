@@ -1,8 +1,8 @@
-<img align="center" alt="banner" width="1300" src="https://camo.githubusercontent.com/ec6442ce4f6678a618ee77730e0784219b2fe877957705d82f6422702c14d0df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966">
+<img align="center" alt="banner" width="1300" src="https://miro.medium.com/v2/1*mY7-_HseAw99fBS9Cb3tSw.gif">
 
 <h1 align="center">Hi 👋, I'm Vinut Maradur</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinutmaradur&label=Profile%20views&color=0e75b6&style=flat" alt="vinutmaradur" /> </p>
 
