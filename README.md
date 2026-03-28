@@ -93,16 +93,13 @@
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinutmaradur&theme=tokyonight"/>
 </p>
 
----
-
-<p>
 # Connect With Me 🌐
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinut-maradur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinut-maradur" height="30" width="40" /></a>
 <a href="https://kaggle.com/vinutmaradur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vinutmaradur" height="30" width="40" /></a>
 </p>
-</p>
+
 ---
 
 # Quote I Believe In 💡
