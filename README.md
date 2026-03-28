@@ -1,8 +1,8 @@
-<img align="center" alt="banner" width="1300" src="https://miro.medium.com/v2/1*mY7-_HseAw99fBS9Cb3tSw.gif?v=1">
+<img align="center" alt="banner" width="1300" src="https://github.com/vinutmaradur/vinutmaradur/blob/main/assests/banner.gif?raw=true">
 
 <h1 align="center">Hi 👋, I'm Vinut Maradur</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="400" height="340" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
+<img align="right" alt="Coding" width="400" height="340" src="https://github.com/vinutmaradur/vinutmaradur/blob/main/assests/coding.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinutmaradur&label=Profile%20views&color=0e75b6&style=flat" alt="vinutmaradur" /> </p>
 
