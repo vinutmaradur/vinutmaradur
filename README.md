@@ -4,7 +4,9 @@
 <h3 align="center">A passionate data analyst from India</h3>
 <img align="right" alt="Coding" width="400" height="340" src="https://github.com/vinutmaradur/vinutmaradur/blob/main/assests/coding.gif?raw=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinutmaradur&label=Profile%20views&color=0e75b6&style=flat" alt="vinutmaradur" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vinutmaradur&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
 
 # Introduction 
 🔭 I’m currently working on **Data Science and Data Analyst Projects**
@@ -97,3 +99,8 @@
 ---
 
 ⭐ If you like my work, consider following me and exploring my repositories!
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/vinutmaradur/vinutmaradur/blob/output/github-contribution-grid-snake.svg)
+
