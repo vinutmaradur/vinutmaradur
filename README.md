@@ -19,7 +19,7 @@
 ---
 
 # About Me 👨‍💻
-- 🔍 Passionate about turning raw data into meaningful insights
+🔍 Passionate about turning raw data into meaningful insights
 - 📊 Skilled in building interactive dashboards & analytical solutions
 - 🤖 Exploring Machine Learning & AI-driven applications
 -  🎯 Focused on solving real-world business problems using data
