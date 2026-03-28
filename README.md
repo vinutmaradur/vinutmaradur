@@ -86,19 +86,28 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinutmaradur&theme=tokyo-night&hide_border=true"/>
 
-<p align="left">
-<img align="left" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinutmaradur&theme=tokyonight"/>
-</p>
-<p align="right">
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinutmaradur&theme=tokyonight"/>
+<!-- Top Section: Two Cards in One Row -->
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinutmaradur&theme=tokyonight"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinutmaradur&theme=tokyonight"/>
 </p>
 
-# Connect With Me 🌐
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vinut-maradur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinut-maradur" height="30" width="40" /></a>
-<a href="https://kaggle.com/vinutmaradur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vinutmaradur" height="30" width="40" /></a>
+<br><br>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/vinut-maradur" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
+</a>
+<a href="https://kaggle.com/vinutmaradur" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" width="50" />
+</a>
 </p>
+
 
 ---
 
