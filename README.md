@@ -68,10 +68,10 @@
 ---
 
 # Featured Projects 📂
-📊 Sales & Profit Analysis Dashboard (Power BI)
-🤖 AI Resume Screening System
-📈 Data Analysis using Python (EDA + Insights)
-📦 Supply Chain Analytics Dashboard
+📊 Sales & Profit Analysis Dashboard (Power BI) </br>
+🤖 AI Resume Screening System </br>
+📈 Data Analysis using Python (EDA + Insights) </br>
+📦 Supply Chain Analytics Dashboard </br>
 
 👉 Explore all my projects here:
 [Explore Projects](https://github.com/vinutmaradur?tab=repositories)
@@ -86,11 +86,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinutmaradur&theme=tokyo-night&hide_border=true"/>
 
-<!-- Top Section: Two Cards in One Row -->
-
 <p align="center">
-  <img width="48%" height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinutmaradur&theme=tokyonight"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinutmaradur&theme=tokyonight"/>
+  <img width="50%" height="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinutmaradur&theme=tokyonight"/>
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinutmaradur&theme=tokyonight"/>
 </p>
 
 <br><br>
