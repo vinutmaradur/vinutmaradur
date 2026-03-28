@@ -28,13 +28,13 @@
 # About Me 👨‍💻
 🔍 Passionate about turning raw data into meaningful insights </br>
 📊 Skilled in building interactive dashboards & analytical solutions </br>
-🤖 Exploring Machine Learning & AI-driven applications
+🤖 Exploring Machine Learning & AI-driven applications </br>
 🎯 Focused on solving real-world business problems using data
 
 # What I’m Working On 🚀
-📌 End-to-end Data Analytics Projects
-📈 Power BI Dashboards & Business Intelligence Solutions
-🤖 Machine Learning Models for predictive analytics
+📌 End-to-end Data Analytics Projects </br> 
+📈 Power BI Dashboards & Business Intelligence Solutions </br>
+🤖 Machine Learning Models for predictive analytics </br>
 🧠 Strengthening Statistics & Data Science fundamentals
 
 ---
