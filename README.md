@@ -12,9 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vinutmaradur?tab=repositories](https://github.com/vinutmaradur?tab=repositories)
 
-- 💬 Ask me about **Advance Excel , Python , SQL , Power BI , probability and statisticsprobab**
+- 💬 Ask me about **Advance Excel , Python , Tableau , SQL , Power BI , probability and statistics and Data Science related topics**
 
 - 📫 How to reach me **vinutpmaradur@gmail.com**
+
+---
 
 # About Me 👨‍💻
 - 🔍 Passionate about turning raw data into meaningful insights
@@ -27,6 +29,8 @@
 - 📈 Power BI Dashboards & Business Intelligence Solutions
 - 🤖 Machine Learning Models for predictive analytics
 - 🧠 Strengthening Statistics & Data Science fundamentals
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
