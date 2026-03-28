@@ -86,10 +86,10 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinutmaradur&theme=tokyo-night&hide_border=true"/>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinutmaradur&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinutmaradur&theme=tokyonight"/>
 
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinutmaradur&theme=tokyonight"/>
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinutmaradur&theme=tokyonight"/>
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinutmaradur&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinutmaradur&theme=tokyonight"/>
 
 
 
