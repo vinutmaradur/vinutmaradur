@@ -1,8 +1,4 @@
-<img align="center" alt="banner" width="1300" src="https://miro.medium.com/v2/1*mY7-_HseAw99fBS9Cb3tSw.gif">
-
-
-
-<img align="center" alt="banner" width="1300" src="https://media.giphy.com/media/your-gif-id/giphy.gif">
+<img align="center" alt="banner" width="1300" src="https://miro.medium.com/v2/1*mY7-_HseAw99fBS9Cb3tSw.gif?v=1">
 
 <h1 align="center">Hi 👋, I'm Vinut Maradur</h1>
 <h3 align="center">A passionate data analyst from India</h3>
