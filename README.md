@@ -6,22 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinutmaradur&label=Profile%20views&color=0e75b6&style=flat" alt="vinutmaradur" /> </p>
 
----
-
-# About Me 👨‍💻
-- 🔍 Passionate about turning raw data into meaningful insights
-- 📊 Skilled in building interactive dashboards & analytical solutions
-- 🤖 Exploring Machine Learning & AI-driven applications
--  🎯 Focused on solving real-world business problems using data
-
----
-
-# What I’m Working On 🚀
-- 📌 End-to-end Data Analytics Projects
-- 📈 Power BI Dashboards & Business Intelligence Solutions
-- 🤖 Machine Learning Models for predictive analytics
-- 🧠 Strengthening Statistics & Data Science fundamentals
-
 - 🔭 I’m currently working on **Data Science and Data Analyst Projects**
 
 - 🌱 I’m currently learning **Advanced Data Analytics and Machine Learning**
@@ -31,6 +15,18 @@
 - 💬 Ask me about **Advance Excel , Python , SQL , Power BI , probability and statisticsprobab**
 
 - 📫 How to reach me **vinutpmaradur@gmail.com**
+
+# About Me 👨‍💻
+- 🔍 Passionate about turning raw data into meaningful insights
+- 📊 Skilled in building interactive dashboards & analytical solutions
+- 🤖 Exploring Machine Learning & AI-driven applications
+-  🎯 Focused on solving real-world business problems using data
+
+# What I’m Working On 🚀
+- 📌 End-to-end Data Analytics Projects
+- 📈 Power BI Dashboards & Business Intelligence Solutions
+- 🤖 Machine Learning Models for predictive analytics
+- 🧠 Strengthening Statistics & Data Science fundamentals
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
