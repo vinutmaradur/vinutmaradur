@@ -2,20 +2,20 @@
 
 <h1 align="center">Hi 👋, I'm Vinut Maradur</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
+<img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinutmaradur&label=Profile%20views&color=0e75b6&style=flat" alt="vinutmaradur" /> </p>
 
 # Introduction 
-- 🔭 I’m currently working on **Data Science and Data Analyst Projects**
+🔭 I’m currently working on **Data Science and Data Analyst Projects**
 
-- 🌱 I’m currently learning **Advanced Data Analytics and Machine Learning**
+🌱 I’m currently learning **Advanced Data Analytics and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Explore Projects](https://github.com/vinutmaradur?tab=repositories)
+👨‍💻 All of my projects are available at [Explore Projects](https://github.com/vinutmaradur?tab=repositories)
 
-- 💬 Ask me about **Advance Excel , Python , Tableau , SQL , Power BI , probability and statistics and Data Science related topics**
+💬 Ask me about **Advance Excel , Python , Tableau , SQL , Power BI , probability and statistics and Data Science related topics**
 
-- 📫 How to reach me **vinutpmaradur@gmail.com**
+📫 How to reach me **vinutpmaradur@gmail.com**
 
 ---
 
