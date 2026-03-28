@@ -86,6 +86,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinutmaradur&theme=tokyo-night&hide_border=true"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=vinutmaradur&theme=radical&no-frame=true&margin-w=10"/>
+
+
 ---
 
 # Connect With Me 🌐
