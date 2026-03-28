@@ -95,7 +95,7 @@
 
 <br><br>
 
-# 🌐 Connect With Me
+# Connect With Me 🌐
 
 <p align="center">
 <a href="https://linkedin.com/in/vinut-maradur" target="blank">
@@ -106,13 +106,8 @@
 </a>
 </p>
 
-
----
-
 # Quote I Believe In 💡
 **“Without data, you're just another person with an opinion.”**
-
----
 
 ⭐ If you like my work, consider following me and exploring my repositories!
 
