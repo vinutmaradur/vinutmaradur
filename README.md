@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+into+Actionable+Insights;Building+Real-World+Projects+🚀" />
+</p>
+
 <img align="center" alt="banner" width="1300" src="https://github.com/vinutmaradur/vinutmaradur/blob/main/assests/banner.gif?raw=true">
 
 <h1 align="center">Hi 👋, I'm Vinut Maradur</h1>
@@ -100,11 +104,6 @@
 
 ⭐ If you like my work, consider following me and exploring my repositories!
 
-## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
