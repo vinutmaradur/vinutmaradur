@@ -87,8 +87,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinutmaradur&theme=tokyo-night&hide_border=true"/>
 
 <p align="center">
-  <img width="48%" style="height:300px; object-fit:cover;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinutmaradur&theme=tokyonight"/>
-  <img width="48%" style="height:300px; object-fit:cover;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinutmaradur&theme=tokyonight"/>
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinutmaradur&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinutmaradur&theme=tokyonight"/>
 </p>
 
 <br><br>
