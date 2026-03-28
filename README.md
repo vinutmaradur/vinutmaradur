@@ -84,12 +84,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinutmaradur&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinutmaradur&show_icons=true&locale=en" alt="vinutmaradur" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinutmaradur&theme=dark" alt="vinutmaradur" /></p>
-
 ---
 
 # Connect With Me 🌐
