@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinutmaradur&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinutmaradur&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <br><br>
