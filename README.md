@@ -87,7 +87,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinutmaradur&theme=tokyo-night&hide_border=true"/>
 
 <p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinutmaradur&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinutmaradur&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
