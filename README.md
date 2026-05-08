@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://github.com/vinutmaradur/vinutmaradur/blob/main/assets/banner.gif?raw=true" 
+    src="https://github.com/vinutmaradur/vinutmaradur/blob/main/assests/banner.gif?raw=true" 
     alt="Banner" 
     width="100%" 
   />
