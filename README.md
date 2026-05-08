@@ -29,7 +29,7 @@
 
 📫 How to reach me **vinutpmaradur@gmail.com**
 
----
+</br>
 
 # About Me 👨‍💻
 🔍 Passionate about turning raw data into meaningful insights </br>
