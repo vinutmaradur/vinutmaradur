@@ -31,7 +31,7 @@
 
 </br>
 
-# About Me 👨‍💻
+<h2 align="center">About Me</h2>
 🔍 Passionate about turning raw data into meaningful insights </br>
 📊 Skilled in building interactive dashboards & analytical solutions </br>
 🤖 Exploring Machine Learning & AI-driven applications </br>
@@ -45,7 +45,7 @@
 
 </br>
 
-# Tech Stack 🛠️
+<h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>&nbsp;
@@ -63,7 +63,7 @@
 
 </br>
 
-# Featured Projects 📂
+<h2 align="center">Featured Projects 📂 </h2> 
 📊 Sales & Profit Analysis Dashboard (Power BI) </br>
 🤖 AI Resume Screening System </br>
 📈 Data Analysis using Python (EDA + Insights) </br>
@@ -74,7 +74,7 @@
 
 </br>
 
-# GitHub Stats 📈
+<h2 align="center">Githb Stats 📈 </h2>  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinutmaradur&theme=tokyonight&hide_border=true" height="170"/>
@@ -92,7 +92,7 @@
 
 <br><br>
 
-# Connect With Me 🌐
+<h2 align="center">Connect With Me 🌐 </h2> 
 
 <p align="center">
 <a href="https://linkedin.com/in/vinut-maradur" target="blank">
@@ -103,7 +103,7 @@
 </a>
 </p>
 
-# Quote I Believe In 💡
+<h2 align="center">Quote I Believe in 💡 </h2>  
 **“Without data, you're just another person with an opinion.”**
 
 ⭐ If you like my work, consider following me and exploring my repositories!
