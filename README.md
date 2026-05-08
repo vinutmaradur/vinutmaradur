@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/vinutmaradur/vinutmaradur/blob/main/assets/banner.gif?raw=true" width="100%" alt="Banner" />
+  <img src="https://github.com/vinutmaradur/vinutmaradur/blob/main/assests/banner.gif?raw=true" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vinut Maradur</h1>
