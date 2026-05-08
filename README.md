@@ -104,7 +104,7 @@
 </p>
 
 <h2 align="center">Quote I Believe in 💡 </h2>  
-<p align="center">"**“Without data, you're just another person with an opinion.”** </p></br>
+<p align="center">"Without data, you're just another person with an opinion." </p></br>
 
 ---
 
