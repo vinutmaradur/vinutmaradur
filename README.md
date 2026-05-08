@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+into+Actionable+Insights;Building+Real-World+Projects+🚀" />
 </p>
 
-<img align="center" alt="banner" width="1300" src="https://github.com/vinutmaradur/vinutmaradur/blob/main/assests/banner.gif?raw=true">
+<p align="center">
+  <img src="https://github.com/vinutmaradur/vinutmaradur/blob/main/assets/banner.gif?raw=true" width="100%" alt="Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Vinut Maradur</h1>
 <h3 align="center">A passionate data analyst from India</h3>
