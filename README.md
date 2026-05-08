@@ -74,7 +74,7 @@
 
 </br>
 
-<h2 align="center">Githb Stats 📈 </h2>  
+<h2 align="center">Github Stats 📈 </h2>  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinutmaradur&theme=tokyonight&hide_border=true" height="170"/>
@@ -96,16 +96,16 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/vinut-maradur" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />&nbsp;
 </a>
 <a href="https://kaggle.com/vinutmaradur" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" width="50" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" width="50" />&nbsp;
 </a>
 </p>
 
 <h2 align="center">Quote I Believe in 💡 </h2>  
 **“Without data, you're just another person with an opinion.”**
-
+</br>
 ⭐ If you like my work, consider following me and exploring my repositories!
 
 
