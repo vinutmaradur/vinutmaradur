@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=vinutmaradur&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
 
-# Introduction 
+<h2 align="center">Introduction</h2>
 🔭 I’m currently working on **Data Science and Data Analyst Projects**
 
 🌱 I’m currently learning **Advanced Data Analytics and Machine Learning**
@@ -43,7 +43,7 @@
 🤖 Machine Learning Models for predictive analytics </br>
 🧠 Strengthening Statistics & Data Science fundamentals
 
----
+</br>
 
 # Tech Stack 🛠️
 
@@ -61,7 +61,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45"/>
 </p>
 
----
+</br>
 
 # Featured Projects 📂
 📊 Sales & Profit Analysis Dashboard (Power BI) </br>
@@ -72,7 +72,7 @@
 👉 Explore all my projects here:
 [Explore Projects](https://github.com/vinutmaradur?tab=repositories)
 
----
+</br>
 
 # GitHub Stats 📈
 
